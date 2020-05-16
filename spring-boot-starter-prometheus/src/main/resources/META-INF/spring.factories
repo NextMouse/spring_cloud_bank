@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.litaiqing.prometheus_actuator.core.MicrometerConfiguration
